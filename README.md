@@ -67,7 +67,7 @@ The grouped and tonemapped images will be saved in subfolders within the specifi
 
 ## Authors ✍️
 
-- Salwa Shamma - 4010405
-- Samah Shamma - 4010403
-- Sana Shamma - 4010404
+- Salwa Shamma 
+- Samah Shamma
+- Sana Shamma
 
